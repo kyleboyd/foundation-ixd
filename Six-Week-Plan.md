@@ -66,6 +66,9 @@ Once you complete that then recreate your app icon from your travel app digitall
 - [iOS Icon Gallery](http://iosicongallery.com/)
 - [IconsFeed](http://www.iconsfeed.com/)
 
+#####
+- [App Icon Template](https://www.sketchappsources.com/free-source/2978-app-store-icon-template-sizes-sketch-freebie-resource.html)
+
 ---
 
 #### Week 02 - Wireframe Championships Part 1 High Fidelity App Mockups
