@@ -62,6 +62,10 @@ Once you complete that then recreate your app icon from your travel app digitall
 - [Designing an iOS Fitness Application](https://webdesign.tutsplus.com/tutorials/designing-an-ios-fitness-application-with-apple-watch-compatibility--cms-23613)
 [Create an Eye-Catching Water Droplet Icon With Sketch 3](https://webdesign.tutsplus.com/tutorials/create-an-eye-catching-water-droplet-icon-with-sketch-3--cms-22595)
 
+##### Icon Inspiration
+- [iOS Icon Gallery](http://iosicongallery.com/)
+- [IconsFeed](http://www.iconsfeed.com/)
+
 ---
 
 #### Week 02 - Wireframe Championships Part 1 High Fidelity App Mockups
